@@ -2,7 +2,7 @@ class Cogo < Formula
   desc "CLI tool to interact with multiple different cloud providers"
   homepage "https://cogoapp.dev"
   url "https://github.com/Midnight-Conqueror/cogo/archive/2.3.0.tar.gz"
-  sha256 "9603d7bbe59a2e3e4eda0a6a3137299280675b6d0a6a43a0e68850c38f2a7921"
+  sha256 "3af39a8e9324f61fd7bcc3207fef7c5fd5b8c89d624506692a61e6e18b86e97e"
 
   depends_on "go" => :build
 
